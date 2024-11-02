@@ -17,8 +17,10 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/BeniaminSferciuc/components.git
+   cd components
+   npm install
+   npm run dev
    ```
 
 Here is a list of the primary components, with a brief explanation of each:
